@@ -1,5 +1,7 @@
 # Dashboard Interativo de Diabetes / Interactive Diabetes Dashboard
 
+https://130e-34-148-48-42.ngrok-free.app/
+
 Este projeto usa Dash (Python) para criar um dashboard interativo com base em dados de diabetes.
 
 This project uses Dash (Python) to create an interactive dashboard based on diabetes data.
