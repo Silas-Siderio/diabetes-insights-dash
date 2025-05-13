@@ -2,7 +2,7 @@
 
 https://ff14-35-194-93-93.ngrok-free.app/
 
-https://drive.google.com/file/d/13Z68lS686WrzsCU9THQuOe_kVE5Sk7Kz/view?usp=sharing
+
 
 
 Este projeto usa Dash (Python) para criar um dashboard interativo com base em dados de diabetes.
